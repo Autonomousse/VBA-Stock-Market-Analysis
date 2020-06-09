@@ -26,3 +26,13 @@ The goal of this assignment is to take stock data, stored in an Excel workbook, 
   - **Greatest Total Volume**
   
 The second part of the challenge was to make it so the script could iterate through every worksheet in the workbook by running the VBA script once.
+
+## Results
+**Year: 2014**
+![2014](https://github.com/Autonomousse/VBA-challenge/blob/master/VBAStocks/2014.PNG)
+
+**Year: 2015**
+![2015](https://github.com/Autonomousse/VBA-challenge/blob/master/VBAStocks/2015.PNG)
+
+**Year: 2016**
+![2016](https://github.com/Autonomousse/VBA-challenge/blob/master/VBAStocks/2016.PNG)
