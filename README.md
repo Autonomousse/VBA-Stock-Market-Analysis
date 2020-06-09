@@ -7,7 +7,7 @@ The goal of this assignment is to take stock data, stored in an Excel workbook, 
   - **Ticker**: the abbreviation of the stock name.
   
   - **Yearly Change**: the difference between the opening price at the beginning of a given year to the closing price at the end of that year.
-  
+
     - The cell color should be green if postive and red if negative.
     
   - **Percent Change**: the percent change from opening price at the beginning of a given year to the closing price at the end of that year.
@@ -18,7 +18,7 @@ The goal of this assignment is to take stock data, stored in an Excel workbook, 
   
   ## Challenge
   The challenge portion of this assignment was to create a second summary table that displays the following information along with the ticker and value:
-  
+
   - **Greatest % Increase**
   
   - **Greatest % Decrease**
