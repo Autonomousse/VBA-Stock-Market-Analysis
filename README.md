@@ -1,8 +1,7 @@
-# VBA-challenge
-VBA - Stock market data analysis
+# VBA - Stock Market Analysis
 
 ## Goal
-The goal of this assignment is to take stock data, stored in an Excel workbook, and create a summary table using VBA. We are also using VBA to highlight and format the summary table for a cleaner appearance. The code should loop through every worksheet and row and produce the following summary table items:
+Take stock data, stored in an Excel workbook, and create a summary table using VBA. We are also using VBA to highlight and format the summary table for a cleaner appearance. The code should loop through every worksheet and row and produce the following summary table items:
 
   - **Ticker**: the abbreviation of the stock name.
   
@@ -17,7 +16,7 @@ The goal of this assignment is to take stock data, stored in an Excel workbook, 
   - **Total Stock Volume**: the total stock volume summed up for any given year per stock.
   
   ## Challenge
-  The challenge portion of this assignment was to create a second summary table that displays the following information along with the ticker and value:
+  The challenge portion is to create a second summary table that displays the following information along with the ticker and value:
 
   - **Greatest % Increase**
   
@@ -25,7 +24,7 @@ The goal of this assignment is to take stock data, stored in an Excel workbook, 
   
   - **Greatest Total Volume**
   
-The second part of the challenge was to make it so the script could iterate through every worksheet in the workbook by running the VBA script once.
+The second part of the challenge is to have the script iterate through every worksheet in the workbook by running the VBA script once.
 
 ## Results
 **Year: 2014**
